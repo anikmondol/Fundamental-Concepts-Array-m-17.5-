@@ -12,3 +12,4 @@ const numbers = [10, 20, 12, 30];
 const friends = ['anik', 'apu', 'arpon'];
 const passed = [true, false,true];
 const mixedArray = [12, 'address', true, 12.07]
+
